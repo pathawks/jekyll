@@ -54,6 +54,16 @@ these terms, please let one of our [core team members](https://jekyllrb.com/team
 * Use the built-in [Liquid Extensions](https://jekyllrb.com/docs/templates/) to make your life easier
 * Use custom [Plugins](https://jekyllrb.com/docs/plugins/) to generate content specific to your site
 
+## Sponsors
+
+Jekyll is sponsored by these wonderful companies and individuals:
+
+<object type="image/svg+xml" data="https://opencollective.com/jekyll/tiers/sponsor.svg?avatarHeight=36&width=600"></object>
+
+<object type="image/svg+xml" data="https://opencollective.com/jekyll/tiers/backer.svg?avatarHeight=36&width=600"></object>
+
+Want to sponsor or support us? Head over to our [OpenCollective page](http://opencollective.com/jekyll) for more information.
+
 ## License
 
 See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
