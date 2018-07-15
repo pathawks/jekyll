@@ -21,6 +21,8 @@ module Jekyll
       @dest            = File.expand_path(config["destination"]).freeze
 
       self.config = config
+      self.config["markdown"] = "CommonMark"
+      self.config[:markdown]  = "CommonMark"
 
       @reader          = Reader.new(self)
       @regenerator     = Regenerator.new(self)
